@@ -1,0 +1,6 @@
+langchain 
+sqlalchemy 
+pyodbc
+cnos-connector
+openai
+langchain_experimental
