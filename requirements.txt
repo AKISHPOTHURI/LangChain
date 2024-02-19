@@ -4,3 +4,6 @@ pyodbc
 cnos-connector
 openai
 langchain_experimental
+pyodbc 
+google-generativeai 
+python-dotenv
